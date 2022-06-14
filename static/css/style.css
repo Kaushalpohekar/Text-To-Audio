@@ -1,0 +1,19 @@
+.login { 
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	right: 40%;
+	margin: -150px 0 0 -150px;
+	width:600px;
+	height:350px;
+}
+
+.h1{
+    text:center;
+    width: 100%;
+}
+
+.h3{
+    text:center;
+    width: 100%;
+}
